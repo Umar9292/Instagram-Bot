@@ -1,2 +1,0 @@
-
-pw = 'Momi?stranger92'
